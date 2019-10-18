@@ -43,17 +43,14 @@
 
 ![devops](./devops.png)
 
-|         <h3>HTML</h3>          |                   |                     |                   |                |
-| :----------------------------: | :---------------: | :-----------------: | :---------------: | :------------: |
-|          <h3>CSS</h3>          |       SASS        |      Bootstrap      |        BEM        |                |
-|      <h3>Javascript</h3>       |                   |                     |                   |                |
-|      <h3>Build tools</h3>      |    npm scripts    |       Webpack       |  Eslint,Prettier  |                |
-|         <h3>React</h3>         |       Redux       |        Mobx         |                   |                |
-|       <h3>CSS in JS</h3>       | Styled Components |     CSS Modules     |                   |                |
-|     <h3>Test your APP</h3>     |       Jest        |       Enzyme        |      Cypress      |                |
-|          <h3>PWA</h3>          |      Storage      |     Web Sockets     |  Service Workers  |  PRPL Pattern  |
-|                                |    RAIL Model     | Performance Metrics | Using Light House | Using Devtools |
-| <h3>Server Side Rendering</h3> |      Next.js      |                     |                   |                |
-| <h3>Static Site Generator</h3> |     GatsbyJS      |                     |                   |                |
-|      <h3>Desktop APP</h3>      |     Electron      |                     |                   |                |
-|      <h3>Mobile APP</h3>       |   React Native    |                     |                   |                |
+|             <h3>OS Concepts</h3>             |        Process Management        |        Threads & Concurrency        |              Sockets               |             I/O Management             |
+| :------------------------------------------: | :------------------------------: | :---------------------------------: | :--------------------------------: | :------------------------------------: |
+|                                              |          Virtualization          |           Memory/Storage            |            File systems            |                                        |
+|                <h3>Linux</h3>                |     Text Manipulation Tools      |         Process Monitoring          |              Network               |                                        |
+|         <h3>Networkd & Security</h3>         |            OSI Model             |             Http/Https              |              SSL/TLS               |                                        |
+|      <h3>What is and hot to set a</h3>       |          Reverse Proxy           |            Forward Proxy            |           Caching Server           |             Load Balancer              |
+|                                              |             Firewall             |                                     |                                    |                                        |
+|           <h3>Infrastructure</h3>            |        Container: Docker         |  Configuration Management: Ansible  | Container Orchestration: Kubernets | Infrastructure Provisioning: Terraform |
+|             <h3>CI/CD Tool</h3>              |             Jenkins              |                                     |                                    |                                        |
+| <h3>Monitor software and infrastructure</h3> | Infastructure Monitoring: Nagios | Application Monitoring: AppDanamics |     Logs Management: ELK Stack     |                                        |      
+
