@@ -14,9 +14,11 @@
 | <h3>Static Site Generator</h3> |     GatsbyJS      |                     |                   |                |
 |      <h3>Desktop APP</h3>      |     Electron      |                     |                   |                |
 |      <h3>Mobile APP</h3>       |   React Native    |                     |                   |                |
-</br></br>
+<br><br>
 
-![frontend](./backend.png)
+
+
+![baclend](./backend.png)
 
 |         <h3>HTML</h3>          |                   |                     |                   |                |
 | :----------------------------: | :---------------: | :-----------------: | :---------------: | :------------: |
@@ -32,8 +34,10 @@
 | <h3>Static Site Generator</h3> |     GatsbyJS      |                     |                   |                |
 |      <h3>Desktop APP</h3>      |     Electron      |                     |                   |                |
 |      <h3>Mobile APP</h3>       |   React Native    |                     |                   |                |
+<br><br>
 
-![frontend](./devops.png)
+
+![devops](./devops.png)
 
 |         <h3>HTML</h3>          |                   |                     |                   |                |
 | :----------------------------: | :---------------: | :-----------------: | :---------------: | :------------: |
