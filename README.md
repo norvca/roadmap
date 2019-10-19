@@ -54,3 +54,7 @@
 |             <h3>CI/CD Tool</h3>              |             Jenkins              |                                     |                                    |                                        |
 | <h3>Monitor software and infrastructure</h3> | Infastructure Monitoring: Nagios | Application Monitoring: AppDanamics |     Logs Management: ELK Stack     |                                        |      
 
+<br><br>
+
+![others](./others.png)
+### [Environments](https://github.com/norvca/environments#environments), [Issues](https://github.com/norvca/issues#issues)
