@@ -28,21 +28,21 @@
 
 ![baclend](./img/backend.png)
 
-|         <h3>Node.js</h3>          |  Express   |                      |                      |      |
-| :-------------------------------: | :--------: | :------------------: | :------------------: | ---- |
-|    <h3>Distribute Library</h3>    |            |                      |                      |      |
-| <h3>Comtribute to Opensource</h3> |            |                      |                      |      |
-|  <h3>Unit/Integration test</h3>   |            |                      |                      |      |
-|   <h3>Relational Database</h3>    | PostgreSQL |                      |                      |      |
-|      <h3>NoSQL Database</h3>      |  MongoDB   |       CouchDB        |                      |      |
-|         <h3>Chaching</h3>         |   Redis    |                      |                      |      |
-|   <h3>Create RESTful APIs</h3>    |            |                      |                      |      |
-|      <h3>Authentication</h3>      |   OAuth    | Basic Authentication | Token Authentication | JWT  |
-|                                   |   OpenID   |                      |                      |      |
-|     <h3>Message Brokers</h3>      |  RabbitMQ  |                      |                      |      |
-|       <h3>Web Servers</h3>        |   Nginx    |                      |                      |      |
-|         <h3>GraphQL</h3>          |            |                      |                      |      |
-|      <h3>Graph Database</h3>      |            |                      |                      |      |
+|         <h3>Node.js</h3>          |  Express   |                                                              |                      |      |
+| :-------------------------------: | :--------: | :----------------------------------------------------------: | :------------------: | ---- |
+|    <h3>Distribute Library</h3>    |            |                                                              |                      |      |
+| <h3>Comtribute to Opensource</h3> |            |                                                              |                      |      |
+|  <h3>Unit/Integration test</h3>   |            |                                                              |                      |      |
+|   <h3>Relational Database</h3>    | PostgreSQL |                                                              |                      |      |
+|      <h3>NoSQL Database</h3>      |  MongoDB   | [CouchDB](https://github.com/norvca/dailyProgress/issues/83) |                      |      |
+|         <h3>Chaching</h3>         |   Redis    |                                                              |                      |      |
+|   <h3>Create RESTful APIs</h3>    |            |                                                              |                      |      |
+|      <h3>Authentication</h3>      |   OAuth    |                     Basic Authentication                     | Token Authentication | JWT  |
+|                                   |   OpenID   |                                                              |                      |      |
+|     <h3>Message Brokers</h3>      |  RabbitMQ  |                                                              |                      |      |
+|       <h3>Web Servers</h3>        |   Nginx    |                                                              |                      |      |
+|         <h3>GraphQL</h3>          |            |                                                              |                      |      |
+|      <h3>Graph Database</h3>      |            |                                                              |                      |      |
 
 
 <br><br>
