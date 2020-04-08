@@ -1,8 +1,8 @@
 ![frontend](./img/general.png)
 
-| Git  | [**SSH**](https://github.com/norvca/environments#ssh) | Data structure & Algorithms | Design Patterns |      |      |
-| :--: | :---------------------------------------------------: | :-------------------------: | :-------------: | :--: | :--: |
-|      |                                                       |                             |                 |      |      |
+| [Git](https://github.com/norvca/dailyProgress/issues?q=is%3Aissue+is%3Aopen+label%3AGit) | [**SSH**](https://github.com/norvca/environments#ssh) | Data structure & Algorithms | Design Patterns |      |      |
+| :---: | :---------------------------------------------------: | :-------------------------: | :-------------: | :--: | :--: |
+|       |                                                       |                             |                 |      |      |
 
 
 ![frontend](./img/frontend.png)
