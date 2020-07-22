@@ -1,6 +1,5 @@
 ### Homepage:
-
-https://norvca.github.io/roadmap/
+https://norvca.github.io/roadmap/app/dist/
 
 ![frontend](./img/general.png)
 
