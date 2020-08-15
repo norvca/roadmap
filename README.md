@@ -2,6 +2,6 @@
 
 https://norvca.github.io/roadmap/app/dist/
 
-![others](./img/others.png)
+### Others:
 
 ### [Environments](https://github.com/norvca/environments#environments), [Issues](https://github.com/norvca/issues#issues)
